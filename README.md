@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+⚡ Skill:
+- Nodejs && Golang && Vuejs
+- AWS && Docker && K8S
+
+🔭 I’m currently working on ##Trend Micro##
+
+📫 How to reach me: 18325533531
+
+  
