@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 ## 🔭 I’m currently working on Trend Micro
 
-## 📫 How to reach me: 18325533531
+## 📫 How to reach me:
+- 18325533531
 
   
