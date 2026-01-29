@@ -23,9 +23,4 @@ Here are some ideas to get you started:
 - Http,Rpc
 - AWS,Docker,K8S
 
-## 📫 How to reach me:
-- 18325533531
-
-## 🔭 I’m currently working on Trend Micro
-
   
